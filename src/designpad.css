@@ -1,5 +1,16 @@
-.pad {
+.blackpad {
     background: black;
+    height: 300px;
+    width: 300px;
+}
+
+.orangepad {
+    background: orange;
+    height: 300px;
+    width: 300px;
+}
+
+.pad {
     height: 300px;
     width: 300px;
 }

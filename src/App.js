@@ -6,8 +6,8 @@ import NewComponent from './components/NewComponent';
 
 function App() {
   return (
-      <div>
-          <NewComponent />
+      <div className="App">
+          <DesignContainer />
       </div>
   );
 }
